@@ -21,6 +21,6 @@ Estudante de **Desenvolvimento de Sistemas no SENAI** e do **3º ano do Ensino M
 `React Native` `Node.js` `Express` `POO` `Arquitetura MVC` `APIs REST`
 
 **Bancos de Dados & Ferramentas:**
-`MySQL` `SQL Server` `Git` `GitHub` `VS Code`
+`MySQL` `SQL Server` `GitHub` `VS Code`
 
 ---
